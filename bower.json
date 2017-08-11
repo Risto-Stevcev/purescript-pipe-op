@@ -1,6 +1,10 @@
 {
   "name": "purescript-pipe-op",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Risto-Stevcev/purescript-pipe-op.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
